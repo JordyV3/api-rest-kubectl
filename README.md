@@ -3,7 +3,7 @@
 ### Installation
 
 ```
-git clone https://github.com/fazt/nodejs-mysql-restapi
+git clone https://github.com/JordyV3/api-rest-kubectl.git
 cd nodejs-mysql-restapi
 docker-compose up
 npm install
